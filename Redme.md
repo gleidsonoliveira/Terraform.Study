@@ -8,7 +8,11 @@ Adicionar o executável na raiz do windows, e adicionar o caminho no path das va
   # Após esse comando devera mostrar os comandos basícos do terraform.
   # Também podemos verificar a versão do terraform executando o comando "terraform --version"
 
-
+# Instalar as extenções 
+  # HashiCorp Terraform
+  #
+  #
+  
 
 
 
