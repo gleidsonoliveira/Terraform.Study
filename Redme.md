@@ -14,6 +14,9 @@
   # Azure Terraform
   # Terraform
 
+# Principais comandos do terraform.
+  terraform init - Comando para inicializar a criação.
+  terraform validate - Comando para validar o código da infra estrutura. 
 
 
 
